@@ -5,4 +5,4 @@
 - 📗 Languages [C#, Java, Javascript, Python]
 - 🛢 Databases [SQL Server, T-SQL, Postgres, Firestore]
 - 🌨 Cloud [GCP]
-- 🌉 Within VTRXM : Accipiens - Volksvagen UK
+- 🌉 Within VTRXM : Accipiens - Volkswagen UK
